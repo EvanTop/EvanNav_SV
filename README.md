@@ -1,4 +1,20 @@
 # EvanNav_SV：极致精简的网址导航站，一个文件搞定
+
+<div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://evan.xin" target="_blank">
+        <img src="https://img.shields.io/badge/Blog-Evan's%20Space-black?logo=blog&color=red&style=flat" alt="Blog-Evan's Space" style="display: inline-block;">
+    </a>
+    <a href="https://github.com/EvanTop/EvanNav_SV" target="_blank">
+        <img src="https://img.shields.io/github/repo-size/EvanTop/EvanNav_SV?style=flat" alt="Repo Size" style="display: inline-block;">
+    </a>
+    <a href="https://github.com/EvanTop/EvanNav_SV/stargazers" target="_blank">
+        <img src="https://img.shields.io/github/stars/EvanTop/EvanNav_SV?style=flat" alt="Stars" style="display: inline-block;">
+    </a>
+    <a href="https://github.com/EvanTop/EvanNav/releases" target="_blank">
+        <img src="https://img.shields.io/github/downloads/EvanTop/EvanNav_SV/total?style=flat" alt="GitHub All Releases" style="display: inline-block;">
+    </a>
+</div>
+
 EvanNav_SV 是 EvanNav 的超级简化版本（Super Vanilla），将完整导航系统的精华浓缩为单个 HTML 文件。这款轻量级网址收藏管理工具继承了原版的核心功能和优雅设计，同时大幅提升了便携性和易用性。
 
 
