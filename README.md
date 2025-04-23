@@ -23,6 +23,7 @@ EvanNav_SV 是 EvanNav 的超级简化版本（Super Vanilla），将完整导�
 |![Image description](https://i.imgur.com/MlSbUJ0.png)|![Image description](https://i.imgur.com/Em9i6N8.png)| 
 
 ## 🚀 特色亮点
+
 极致轻量：整个应用仅由一个 HTML 文件组成，内嵌 CSS 和 JavaScript，无需服务器部署
 本地存储：使用浏览器的 localStorage 保存您的网址收藏，无需数据库支持
 分类管理：支持自定义分类，轻松整理不同类型的网站收藏
@@ -32,6 +33,7 @@ EvanNav_SV 是 EvanNav 的超级简化版本（Super Vanilla），将完整导�
 数据导入导出：支持数据备份和迁移，确保您的收藏永不丢失
 
 ## 💡 使用场景
+
 个人网址收藏：将常用网站整理归类，一键直达
 团队资源共享：在团队内分享重要网站和工具链接
 临时导航页：快速创建项目相关资源导航，方便协作
@@ -39,5 +41,6 @@ EvanNav_SV 是 EvanNav 的超级简化版本（Super Vanilla），将完整导�
 教学演示：简单直观的前端开发学习案例
 
 ## 🔧 即开即用
+
 只需在浏览器中打开 HTML 文件，无需安装任何依赖或配置环境，即可开始使用您的个人网址导航站。默认管理密码为"admin123"，登录后即可自定义网站标题、添加收藏网址和管理分类。
 EvanNav_SV 是为追求简约高效的用户设计的理想选择，让您的网址管理回归本质，一个文件搞定所有需求。
