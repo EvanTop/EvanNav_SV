@@ -1,7 +1,10 @@
-# EvanNav_SV：您的个人网址导航站，一个文件搞定
+# EvanNav_SV：极致精简的网址导航站，一个文件搞定
 
 EvanNav_SV 是 Evan's Navigation 的超级简化版本（Super Vanilla），将完整导航系统的精华浓缩为单个 HTML 文件。这款轻量级网址收藏管理工具继承了原版的核心功能和优雅设计，同时大幅提升了便携性和易用性。
 
+| PHONE | PC |
+|---|---|
+|![Image description](https://i.imgur.com/MlSbUJ0.png)|![Image description](https://i.imgur.com/Em9i6N8.png)| 
 
 ## 🚀 特色亮点
 极致轻量：整个应用仅由一个 HTML 文件组成，内嵌 CSS 和 JavaScript，无需服务器部署
